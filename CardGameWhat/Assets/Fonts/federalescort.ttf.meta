@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 465076209d1f34e9aa7e53f4ee7b57de
+timeCreated: 1521949604
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Federal Escort
+  fontNames:
+  - Federal Escort
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
